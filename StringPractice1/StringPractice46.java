@@ -9,8 +9,6 @@ public class StringPractice46 {
                 int y = s1[j].length();
                 if(x>y){
                     s2 = s1[i];
-                    System.out.println(s1[i].length());
-                    System.out.println(s1[j].length());
                 }
             }
             
